@@ -1,0 +1,49 @@
+{
+    "id":"DnG_system",
+    "title":"DnG system",
+    "description":"The Core System for Donjons & Groudon TTRPG",
+    "version":"0.0.1",
+    "authors":[
+        {
+            "name":"Tho",
+            "discord":"Kobold Paladin"
+        },
+        {
+            "name":"DerpFerret",
+            "discord":"Kobold Paladin"
+        }
+    ],
+    "compatibility":{
+        "minimum":14,
+        "verified":14.362,
+        "maximum":14
+    },
+    "esmodules":[
+        "dngSystem.js"
+    ],
+    "styles":[
+        "dngSystem.css"
+    ],
+    "languages":[
+        {
+            "lang":"en",
+            "name":"English",
+            "path":"lang/en.json"
+        },
+                {
+            "lang":"fr",
+            "name":"Français",
+            "path":"lang/fr.json"
+        }
+    ],
+    "socket":false,
+    "grid":{
+        "distance":1,
+        "unit":"meter"
+    },
+    "url":"https://github.com/Tho33/DnG_system",
+    "manifest":"",
+    "download":""
+
+
+}
